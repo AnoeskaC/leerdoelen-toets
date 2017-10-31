@@ -21,8 +21,7 @@
 * Ik kan de flex box correct toepassen
 * Ik kan uitleggen waarom een h1 standaard groter wordt getoond dan een p element (browser style, webkit etc) 
 * Ik kan uitleggen wat de verschillen zijn tussen positions (absolute, relative, static)
- 
- 
+---
 * Ik kan uitleggen wat een variabele is
 * Ik kan de statements van een for lus uitleggen 
 * Ik kan een correcte forlus opstellen
